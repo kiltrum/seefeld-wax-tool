@@ -1,0 +1,150 @@
+timestamp,location,air_temp,snow_type,snow_moisture,wax_brand,wax_product,rating,snow_temp,layers
+2025-01-14 08:30,Möserer Steig,-6,old_transformed,dry,Rode,Blue Super Extra,4,-7,4
+2025-01-14 08:45,Alpenbad-Anstieg,-3,artificial,normal,Swix,VR45,5,-4,5
+2025-01-14 09:10,Brunschkopf-Anstieg,-1,wet,wet,Swix,KR70,3,0,3
+2025-01-14 09:30,Möserer Steig,-5,fresh_cold,dry,Start,SFX Blue,4,-6,4
+2025-01-14 10:00,Alpenbad-Anstieg,0,old_transformed,normal,Vauhti,K-Red,2,-1,3
+2025-01-14 10:20,Brunschkopf-Anstieg,1,wet,wet,Swix,KR50,5,1,2
+2025-01-14 11:00,Möserer Steig,-4,fresh_fine,dry,Rex,Green Grip,3,-5,4
+2025-01-14 11:40,Alpenbad-Anstieg,-2,artificial,normal,Rode,Multigrade Violet,4,-3,3
+2025-01-14 12:10,Brunschkopf-Anstieg,2,wet,wet,Start,Klister Universal Wide,3,2,2
+2025-01-14 12:30,Möserer Steig,-3,old_transformed,normal,Swix,VR50,5,-4,5
+2025-01-14 08:15,Möserer Steig,-5,old_transformed,normal,Rode,Blue Super Extra,4,-4,4
+2025-01-14 08:20,Alpenbad-Anstieg,-3,artificial,wet,Swix,VR45,5,-2,5
+2025-01-14 08:25,Brunschkopf-Anstieg,-7,fresh_cold,dry,Rex,Green,3,-7,3
+2025-01-14 08:30,Möserer Steig,-6,fresh_fine,dry,Star Ski Wax,Green Grip,4,-6,4
+2025-01-14 08:35,Alpenbad-Anstieg,-2,old_transformed,normal,Swix,VR40,5,-3,4
+2025-01-14 08:40,Brunschkopf-Anstieg,0,wet,wet,Toko,Red Klister,2,0,3
+2025-01-14 08:45,Möserer Steig,-1,artificial,wet,Start,Oslo Red,4,-1,4
+2025-01-14 08:50,Alpenbad-Anstieg,-4,old_transformed,normal,Rode,Multigrade Violet,5,-4,5
+2025-01-14 08:55,Brunschkopf-Anstieg,-3,fresh_cold,dry,Vauhti,Green,3,-3,3
+2025-01-14 09:00,Möserer Steig,-8,fresh_fine,dry,Swix,VG35,4,-8,4
+2025-01-14 09:05,Alpenbad-Anstieg,1,wet,wet,Rex,Gold Klister,2,1,3
+2025-01-14 09:10,Brunschkopf-Anstieg,-5,old_transformed,normal,Toko,Blue Grip,4,-5,4
+2025-01-14 09:15,Möserer Steig,-6,old_transformed,normal,Rode,SuperBlue,5,-6,5
+2025-01-14 09:20,Alpenbad-Anstieg,-2,artificial,normal,Star Ski Wax,Blue,4,-2,4
+2025-01-14 09:25,Brunschkopf-Anstieg,-9,fresh_fine,dry,Swix,VG30,3,-9,3
+2025-01-14 09:30,Möserer Steig,-3,old_transformed,normal,Start,Green Gripwax,4,-3,4
+2025-01-14 09:35,Alpenbad-Anstieg,0,wet,wet,Rode,Rossa Klister,3,0,3
+2025-01-14 09:40,Brunschkopf-Anstieg,-1,artificial,wet,Swix,VR50,5,-1,5
+2025-01-14 09:45,Möserer Steig,-4,fresh_cold,dry,Rex,Blue,4,-4,4
+2025-01-14 09:50,Alpenbad-Anstieg,-5,old_transformed,normal,Vauhti,Carrot,5,-5,5
+2025-01-12 08:10,Möserer Steig,-7,old_transformed,dry,Rode,Blue Super Extra,4,-8,4
+2025-01-12 08:25,Alpenbad-Anstieg,-3,artificial,normal,Swix,VR45,5,-4,5
+2025-01-12 08:40,Brunschkopf-Anstieg,-1,wet,wet,Swix,KR70,3,0,3
+2025-01-12 09:00,Möserer Steig,-6,fresh_cold,dry,Start,SFX Blue,4,-7,4
+2025-01-12 09:20,Alpenbad-Anstieg,0,old_transformed,normal,Vauhti,K-Red,2,-1,3
+2025-01-12 09:50,Brunschkopf-Anstieg,1,wet,wet,Swix,KR50,3,1,2
+2025-01-12 10:10,Möserer Steig,-5,fresh_fine,dry,Rode,Green Special,5,-6,3
+2025-01-12 10:30,Alpenbad-Anstieg,-2,artificial,normal,Toko,Base Green,4,-3,4
+2025-01-12 10:45,Brunschkopf-Anstieg,2,wet,wet,Vauhti,K-Universal,3,2,3
+2025-01-13 07:50,Möserer Steig,-8,old_transformed,dry,Rex,Blue Grip,4,-9,4
+2025-01-13 08:05,Alpenbad-Anstieg,-4,artificial,normal,Start,SFR Violet,3,-5,4
+2025-01-13 08:25,Brunschkopf-Anstieg,0,wet,wet,Swix,KR60,4,0,3
+2025-01-13 08:40,Möserer Steig,-7,fresh_cold,dry,Rode,Blue Super Extra,4,-7,3
+2025-01-13 09:00,Alpenbad-Anstieg,-1,old_transformed,normal,Toko,Red Grip,5,-2,5
+2025-01-13 09:20,Brunschkopf-Anstieg,1,wet,wet,Rex,Gold Klister,2,2,2
+2025-01-13 09:40,Möserer Steig,-6,fresh_fine,dry,Vauhti,Blue Carrot,5,-6,4
+2025-01-13 10:00,Alpenbad-Anstieg,-3,artificial,normal,Rode,Multigrade Blue,4,-4,4
+2025-01-13 10:20,Brunschkopf-Anstieg,2,wet,wet,Start,Klister Universal,3,2,3
+2025-01-14 07:30,Möserer Steig,-9,old_transformed,dry,Swix,VR30,5,-9,4
+2025-01-14 07:50,Alpenbad-Anstieg,-5,artificial,normal,Rex,Blue Special,4,-6,3
+2025-01-14 08:10,Brunschkopf-Anstieg,-1,wet,wet,Vauhti,K-Red,3,-1,3
+2025-01-14 08:25,Möserer Steig,-8,fresh_cold,dry,Rode,Green Special,5,-8,3
+2025-01-14 08:50,Alpenbad-Anstieg,-2,old_transformed,normal,Start,SFX Violet,4,-3,4
+2025-01-14 09:10,Brunschkopf-Anstieg,1,wet,wet,Swix,KR70,3,1,3
+2025-01-14 09:30,Möserer Steig,-7,fresh_fine,dry,Start,SFR Blue,4,-7,4
+2025-01-14 09:50,Alpenbad-Anstieg,-1,artificial,normal,Rode,Multigrade Red,3,-2,3
+2025-01-14 10:10,Brunschkopf-Anstieg,3,wet,wet,Vauhti,K-Universal,2,2,2
+2025-01-15 07:45,Möserer Steig,-10,old_transformed,dry,Swix,VR40,5,-10,4
+2025-01-15 08:00,Alpenbad-Anstieg,-6,artificial,normal,Toko,Base Green,4,-6,4
+2025-01-15 08:20,Brunschkopf-Anstieg,-2,wet,wet,Rex,Gold Klister,3,-1,3
+2025-01-15 08:40,Möserer Steig,-9,fresh_cold,dry,Rode,Blue Super Extra,5,-9,4
+2025-01-15 09:00,Alpenbad-Anstieg,-3,old_transformed,normal,Vauhti,Blue Carrot,4,-4,3
+2025-01-15 09:20,Brunschkopf-Anstieg,0,wet,wet,Swix,KR40,3,0,2
+2025-01-15 09:40,Möserer Steig,-8,fresh_fine,dry,Start,SFX Blue,4,-8,3
+2025-01-15 10:00,Alpenbad-Anstieg,-1,artificial,normal,Rex,Blue Grip,4,-2,4
+2025-01-15 10:20,Brunschkopf-Anstieg,2,wet,wet,Start,Klister Universal,3,2,3
+2025-01-16 07:30,Möserer Steig,-11,old_transformed,dry,Rode,Green Special,5,-11,3
+2025-01-16 07:50,Alpenbad-Anstieg,-7,artificial,normal,Swix,VR30,4,-8,4
+2025-01-16 08:10,Brunschkopf-Anstieg,-3,wet,wet,Swix,KR50,2,-2,2
+2025-01-16 08:30,Möserer Steig,-10,fresh_cold,dry,Rex,Blue Special,5,-10,4
+2025-01-16 08:50,Alpenbad-Anstieg,-4,old_transformed,normal,Start,SFR Violet,4,-5,3
+2025-01-16 09:10,Brunschkopf-Anstieg,0,wet,wet,Vauhti,K-Red,3,0,3
+2025-01-16 09:30,Möserer Steig,-9,fresh_fine,dry,Toko,Red Grip,4,-9,3
+2025-01-16 09:50,Alpenbad-Anstieg,-2,artificial,normal,Swix,VR45,5,-3,5
+2025-01-16 10:10,Brunschkopf-Anstieg,3,wet,wet,Rex,Gold Klister,2,2,2
+2025-01-17 07:35,Möserer Steig,-12,old_transformed,dry,Rode,Blue Super Extra,5,-12,4
+2025-01-17 07:55,Alpenbad-Anstieg,-8,artificial,normal,Toko,Base Green,4,-8,4
+2025-01-17 08:10,Brunschkopf-Anstieg,-4,wet,wet,Vauhti,K-Universal,3,-3,3
+2025-01-17 08:30,Möserer Steig,-11,fresh_cold,dry,Swix,VR30,5,-11,3
+2025-01-17 08:50,Alpenbad-Anstieg,-5,old_transformed,normal,Rex,Blue Grip,4,-6,3
+2025-01-17 09:10,Brunschkopf-Anstieg,-1,wet,wet,Start,Klister Universal,3,-1,3
+2025-01-17 09:25,Möserer Steig,-10,fresh_fine,dry,Rode,Green Special,5,-10,4
+2025-01-17 09:45,Alpenbad-Anstieg,-3,artificial,normal,Start,SFR Violet,4,-3,3
+2025-01-17 10:05,Brunschkopf-Anstieg,1,wet,wet,Swix,KR60,3,1,2
+2025-01-18 07:40,Möserer Steig,-13,old_transformed,dry,Swix,VR40,5,-13,4
+2025-01-18 08:00,Alpenbad-Anstieg,-9,artificial,normal,Swix,VR45,4,-9,4
+2025-01-18 08:20,Brunschkopf-Anstieg,-5,wet,wet,Rex,Gold Klister,2,-4,2
+2025-01-18 08:40,Möserer Steig,-12,fresh_cold,dry,Rode,Blue Super Extra,5,-12,4
+2025-01-18 09:00,Alpenbad-Anstieg,-6,old_transformed,normal,Toko,Red Grip,4,-6,3
+2025-01-18 09:20,Brunschkopf-Anstieg,-2,wet,wet,Swix,KR70,3,-1,3
+2025-01-18 09:40,Möserer Steig,-11,fresh_fine,dry,Start,SFX Blue,4,-11,3
+2025-01-18 10:00,Alpenbad-Anstieg,-4,artificial,normal,Vauhti,Blue Carrot,4,-4,4
+2025-01-18 10:20,Brunschkopf-Anstieg,2,wet,wet,Swix,KR40,3,1,2
+2025-01-19 07:50,Möserer Steig,-14,old_transformed,dry,Rode,Green Special,5,-14,3
+2025-01-19 08:10,Alpenbad-Anstieg,-10,artificial,normal,Swix,VR30,4,-10,4
+2025-01-19 08:30,Brunschkopf-Anstieg,-6,wet,wet,Start,Klister Universal,3,-5,3
+2025-01-19 08:50,Möserer Steig,-13,fresh_cold,dry,Rode,Blue Super Extra,5,-13,4
+2025-01-19 09:10,Alpenbad-Anstieg,-7,old_transformed,normal,Rex,Blue Special,4,-8,3
+2025-01-19 09:30,Brunschkopf-Anstieg,-3,wet,wet,Vauhti,K-Red,3,-3,3
+2025-01-19 09:50,Möserer Steig,-12,fresh_fine,dry,Toko,Base Green,4,-12,3
+2025-01-19 10:10,Alpenbad-Anstieg,-5,artificial,normal,Start,SFX Violet,4,-6,3
+2025-01-19 10:30,Brunschkopf-Anstieg,1,wet,wet,Rex,Gold Klister,2,1,2
+2025-01-15 08:10,Möserer Steig,-7,old_transformed,dry,Rode,Blue Super Extra,4,-8,4
+2025-01-15 08:25,Alpenbad-Anstieg,-4,artificial,normal,Swix,VR45,5,-5,5
+2025-01-15 08:40,Brunschkopf-Anstieg,1,wet,wet,Swix,KR70,3,1,3
+2025-01-15 09:00,Möserer Steig,-6,fresh_cold,dry,Start,SFX Blue,4,-7,4
+2025-01-15 09:20,Alpenbad-Anstieg,-1,old_transformed,normal,Vauhti,K-Red,2,-2,3
+2025-01-15 09:35,Brunschkopf-Anstieg,2,wet,wet,Swix,KR60,3,1,3
+2025-01-15 10:00,Möserer Steig,-8,fresh_fine,dry,Rode,Super Extra Blue,5,-9,6
+2025-01-15 10:20,Alpenbad-Anstieg,-3,artificial,dry,Swix,VR40,4,-4,4
+2025-01-15 10:35,Brunschkopf-Anstieg,0,mixed,normal,Rex,Universal Klister,3,-1,2
+2025-01-15 11:00,Möserer Steig,-5,old_transformed,normal,Start,SFR Green,3,-6,3
+2025-01-15 11:25,Alpenbad-Anstieg,-2,fresh_cold,dry,Rode,Green Special,4,-3,3
+2025-01-15 11:40,Brunschkopf-Anstieg,1,wet,wet,Vauhti,K-Universal,3,1,2
+2025-01-15 12:00,Möserer Steig,-9,fresh_fine,dry,Swix,VR30,5,-10,5
+2025-01-15 12:20,Alpenbad-Anstieg,-1,old_transformed,normal,Rode,Blue Multigrade,4,-2,4
+2025-01-15 12:35,Brunschkopf-Anstieg,3,wet,wet,Swix,KR50,2,2,2
+2025-01-16 08:05,Möserer Steig,-10,fresh_fine,dry,Rex,RG22 Blue,5,-11,6
+2025-01-16 08:25,Alpenbad-Anstieg,-6,fresh_cold,dry,Rode,Green,4,-7,5
+2025-01-16 08:45,Brunschkopf-Anstieg,-1,mixed,normal,Start,Wide Red,3,-1,2
+2025-01-16 09:05,Möserer Steig,-8,old_transformed,dry,Swix,VR40,4,-9,4
+2025-01-16 09:30,Alpenbad-Anstieg,-2,artificial,normal,Swix,VR45,5,-3,5
+2025-01-16 09:55,Brunschkopf-Anstieg,0,wet,wet,Rode,Special Violet,3,0,3
+2025-01-16 10:15,Möserer Steig,-7,fresh_cold,dry,Start,SFX Blue,4,-8,4
+2025-01-16 10:35,Alpenbad-Anstieg,-4,old_transformed,dry,Vauhti,K-Blue,3,-5,3
+2025-01-16 11:00,Brunschkopf-Anstieg,2,wet,wet,Swix,KR60,2,2,2
+2025-01-16 11:20,Möserer Steig,-9,fresh_fine,dry,Rode,Blue Super Extra,5,-10,6
+2025-01-16 11:45,Alpenbad-Anstieg,-3,artificial,normal,Swix,VR40,4,-4,4
+2025-01-16 12:05,Brunschkopf-Anstieg,1,mixed,normal,Rex,Universal Klister,3,0,2
+2025-01-17 08:00,Möserer Steig,-11,fresh_fine,dry,Rex,RG22 Blue,5,-12,6
+2025-01-17 08:20,Alpenbad-Anstieg,-5,old_transformed,dry,Swix,VR45,4,-6,4
+2025-01-17 08:40,Brunschkopf-Anstieg,1,wet,wet,Swix,KR70,2,1,2
+2025-01-17 09:00,Möserer Steig,-8,fresh_cold,dry,Rode,Green Special,4,-9,5
+2025-01-17 09:20,Alpenbad-Anstieg,-2,artificial,normal,Vauhti,K-Red,2,-3,3
+2025-01-17 09:45,Brunschkopf-Anstieg,3,wet,wet,Rode,Special Red,3,2,2
+2025-01-17 10:05,Möserer Steig,-7,old_transformed,normal,Start,SFR Green,3,-8,3
+2025-01-17 10:25,Alpenbad-Anstieg,-1,mixed,dry,Rex,Blue Klister,4,-2,4
+2025-01-17 10:50,Brunschkopf-Anstieg,0,wet,wet,Swix,KR60,2,1,2
+2025-01-17 11:15,Möserer Steig,-9,fresh_fine,dry,Rode,Blue Multigrade,5,-10,6
+2025-01-17 11:35,Alpenbad-Anstieg,-4,fresh_cold,dry,Swix,VR40,4,-5,4
+2025-01-17 11:55,Brunschkopf-Anstieg,2,mixed,normal,Rex,Universal Klister,3,1,2
+2025-01-18 08:05,Möserer Steig,-12,fresh_fine,dry,Rex,RG22 Blue,5,-13,6
+2025-01-18 08:25,Alpenbad-Anstieg,-7,old_transformed,dry,Rode,Blue Super Extra,4,-8,4
+2025-01-18 08:45,Brunschkopf-Anstieg,1,wet,wet,Swix,KR70,3,1,3
+2025-01-18 09:10,Möserer Steig,-9,fresh_cold,dry,Start,SFX Blue,4,-10,4
+2025-01-18 09:30,Alpenbad-Anstieg,-3,artificial,normal,Swix,VR45,5,-4,5
+2025-01-18 09:55,Brunschkopf-Anstieg,2,wet,wet,Swix,KR50,2,2,2
+2025-01-18 10:20,Möserer Steig,-10,old_transformed,dry,Rode,Green Special,4,-11,5
+2025-01-18 10:45,Alpenbad-Anstieg,-2,fresh_cold,dry,Rex,RG12 Green,3,-3,3
