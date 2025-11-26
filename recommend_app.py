@@ -74,7 +74,7 @@ df = load_data()
 st.sidebar.header("Eingaben")
 
 location = st.sidebar.selectbox("Streckenabschnitt", sorted(df["location"].unique()))
-air_temp = st.sidebar.slider("Lufttemperatur (°C)", -20, 5, value=-5)
+air_temp = st.sidebar.slider("Lufttemperatur (°C)", -15, 5, value=-5)
 snow_type = st.sidebar.selectbox("Schneetyp", sorted(df["snow_type"].unique()))
 snow_moisture = st.sidebar.selectbox("Schneefeuchte", sorted(df["snow_moisture"].unique()))
 
